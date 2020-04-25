@@ -1,0 +1,22 @@
+{
+  "name": "every-day-npm",
+  "version": "1.0.0",
+  "description": "every-day-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huguobo/every-day-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huguobo/every-day-npm/issues"
+  },
+  "homepage": "https://github.com/huguobo/every-day-npm#readme",
+  "dependencies": {
+    "username": "^5.1.0"
+  }
+}
